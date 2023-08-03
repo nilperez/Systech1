@@ -1,0 +1,17 @@
+En general, es recomendable seguir este orden: crear primero el entorno virtual en Python y luego el proyecto de Git. Aquí están las razones por las que esto es una práctica más adecuada:
+
+Aislar el entorno: Al crear primero el entorno virtual en Python, estás asegurando que todas las dependencias y bibliotecas utilizadas en tu proyecto se instalen y administren de manera aislada del sistema global de Python. Esto es útil para evitar conflictos entre diferentes proyectos que podrían usar versiones de bibliotecas incompatibles.
+
+Versionar el entorno: Si configuras tu entorno virtual antes de iniciar el repositorio de Git, puedes agregar el archivo que contiene la lista de dependencias (por ejemplo, requirements.txt) al repositorio. Esto permite a otros colaboradores replicar fácilmente tu entorno exacto, lo que garantiza que todos estén trabajando con las mismas versiones de las bibliotecas.
+
+Evitar archivos innecesarios en Git: Si primero inicializas un repositorio de Git y luego creas un entorno virtual, es posible que termines versionando archivos innecesarios generados por el entorno virtual. Estos archivos pueden ser numerosos y voluminosos, lo que aumenta el tamaño del repositorio sin aportar valor al proyecto.
+
+El procedimiento recomendado sería el siguiente:
+
+Crea un nuevo directorio para tu proyecto.
+Dentro de ese directorio, configura un nuevo entorno virtual de Python utilizando herramientas como virtualenv o venv.
+Activa el entorno virtual para que todas las instalaciones de paquetes se realicen dentro de él.
+Inicializa el repositorio de Git en el directorio del proyecto.
+Agrega un archivo .gitignore para excluir los archivos generados por el entorno virtual y otros archivos innecesarios del seguimiento de versiones.
+Comienza a trabajar en tu proyecto.
+Siguiendo este enfoque, te aseguras de que tu proyecto tenga un entorno aislado y fácilmente replicable para colaboradores y que no se incluyan archivos innecesarios en el repositorio de Git.
