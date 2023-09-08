@@ -40,5 +40,24 @@
 - Se utilizarán modelos de Machine Learning para predecir cambios en negocios y crear sistemas de recomendación.
 
 **Stack Tecnologico**
+- 
 
 **Kpis**
+
+**EDA**
+
+**Modelos de Recomendacion**
+
+**Link del Producto**
+https://mainpy-bxwrzicy85lxappaf4n3vze.streamlit.app/
+
+- Archivo de test
+https://drive.google.com/file/d/1Y5vV3ilEWrELkpW9CU_MgOSpAt4Xqucl/view?usp=sharing
+
+
+**Desarrolladores**
+Adrián Szklar: Data Engineer, Data Scientist
+Danniela Rodriguez: Data Engineer, Data Scientist
+Nilda Pérez: Data Engineer, Data Scientist
+Samuel Belapatiño: Data Analist, Data Scientist
+Rodrigo Bogado: Data Analist, Data Scientist
