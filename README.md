@@ -47,6 +47,25 @@
 **EDA**
 
 **Modelos de Recomendacion**
+NLTK para el análisis de sentimiento:
+
+Acceso a herramientas de procesamiento de texto: NLTK proporciona una amplia gama de herramientas de procesamiento de texto esenciales para el análisis de sentimientos, como tokenización, lematización y etiquetado POS.
+
+Facilidad de uso: NLTK ofrece una interfaz fácil de usar para desarrolladores y científicos de datos que facilita la implementación de modelos de análisis de sentimientos.
+
+Recursos lingüísticos: NLTK incluye una variedad de corpus y recursos léxicos en varios idiomas, lo que mejora la precisión de los modelos de análisis de sentimientos.
+
+Flexibilidad: Permite la personalización de modelos de análisis de sentimientos, lo que es crucial para adaptarlos a datos específicos del dominio.
+
+Distancia del coseno para medir similitud:
+
+Robustez a la longitud de los documentos: La distancia del coseno permite comparar textos de diferentes longitudes de manera equitativa, lo que es esencial para la similitud de documentos.
+
+Interpretabilidad: Produce valores en un rango de -1 a 1, lo que hace que los resultados sean fácilmente interpretables en aplicaciones como la recuperación de información y la agrupación de documentos.
+
+Amplia aplicación en NLP: Utilizada en diversas aplicaciones de procesamiento de lenguaje natural, como la recuperación de información, la búsqueda de documentos similares y la agrupación de temas.
+
+Eficiencia computacional: Es computacionalmente eficiente y escalable, lo que facilita el procesamiento rápido de grandes cantidades de texto en aplicaciones a gran escala.
 
 **Link del Producto**
 https://mainpy-bxwrzicy85lxappaf4n3vze.streamlit.app/
@@ -56,8 +75,8 @@ https://drive.google.com/file/d/1Y5vV3ilEWrELkpW9CU_MgOSpAt4Xqucl/view?usp=shari
 
 
 **Desarrolladores**
-Adrián Szklar: Data Engineer, Data Scientist
-Danniela Rodriguez: Data Engineer, Data Scientist
-Nilda Pérez: Data Engineer, Data Scientist
-Samuel Belapatiño: Data Analist, Data Scientist
-Rodrigo Bogado: Data Analist, Data Scientist
+- Adrián Szklar: Data Engineer, Data Scientist
+- Danniela Rodriguez: Data Engineer, Data Scientist
+- Nilda Pérez: Data Engineer, Data Scientist
+- Samuel Belapatiño: Data Analist, Data Scientist
+- Rodrigo Bogado: Data Analist, Data Scientist
