@@ -40,7 +40,9 @@
 - Se utilizarán modelos de Machine Learning para predecir cambios en negocios y crear sistemas de recomendación.
 
 **Stack Tecnologico**
-- 
+
+![Texto alternativo](https://github.com/rodrib/Systech1/raw/master/imagenes/stack-rd.png)
+
 
 **Kpis**
 
