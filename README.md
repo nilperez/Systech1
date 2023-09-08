@@ -1,3 +1,7 @@
+**Somos**
+![Texto alternativo](https://github.com/rodrib/Systech1/raw/master/imagenes/systech-rd.png)
+
+
 **Contexto:**
 
 - La era digital ha transformado la importancia de la opinión de los usuarios.
