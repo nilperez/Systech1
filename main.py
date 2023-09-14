@@ -18,9 +18,9 @@ sia = SentimentIntensityAnalyzer()
 # st.image(image, use_column_width=True)  # Ajusta el ancho a la columna
 
 
-# Título de la aplicación con una imagen encima y alineada a la izquierda
-logo_image = 'imagenes\systech-logo.jpeg'  # Ruta de tu imagen
-st.image(logo_image, use_column_width=False, width=150)  # Establece el ancho de la imagen
+# # Título de la aplicación con una imagen encima y alineada a la izquierda
+# logo_image = 'imagenes\systech-logo.jpeg'  # Ruta de tu imagen
+# st.image(logo_image, use_column_width=False, width=150)  # Establece el ancho de la imagen
 
 
 
